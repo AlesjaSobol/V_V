@@ -1,0 +1,4 @@
+﻿  Metodichka_7_2_a.cpp
+d:\alesya\documents\visual studio 2017\projects\metodichka_7_2_a\metodichka_7_2_a\metodichka_7_2_a.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Metodichka_7_2_a.vcxproj -> d:\alesya\documents\visual studio 2017\Projects\Metodichka_7_2_a\Debug\Metodichka_7_2_a.exe
+  Metodichka_7_2_a.vcxproj -> d:\alesya\documents\visual studio 2017\Projects\Metodichka_7_2_a\Debug\Metodichka_7_2_a.pdb (Partial PDB)
